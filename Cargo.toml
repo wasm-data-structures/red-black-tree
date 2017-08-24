@@ -1,0 +1,9 @@
+[package]
+name = "red-black-tree"
+version = "0.1.0"
+authors = ["Christopher Garrett <me@pzuraq.com>"]
+
+[profile.release]
+lto = true
+
+[dependencies]
